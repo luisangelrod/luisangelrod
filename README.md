@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a software engineer with a passion for Science and human behavior!<br>Send me an email or add me on Linkedin! Hope to connect with you soon :)
 
 
